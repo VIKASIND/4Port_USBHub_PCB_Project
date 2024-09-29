@@ -5,7 +5,7 @@ Project Overview
 The 4-port USB hub is designed to expand a single USB connection into four individual ports, making it ideal for connecting multiple devices like flash drives, keyboards, and other peripherals to a computer.
 
 
-![3D Render of the PCB](/USB_HUB/blob/main/Screenshot%202024-09-29%20084229.png))
+![3D Render of the PCB](Screenshot%202024-09-29%20084229.png))
 
 Features
 4 USB Ports: Supports up to 4 devices with USB 2.0/3.0 compatibility.
