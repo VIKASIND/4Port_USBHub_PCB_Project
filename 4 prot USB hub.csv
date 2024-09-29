@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"1uF";;;
+2;"D1,D2,D7,D8,D4,D5,D6,D3";"LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder";8;"LED";;;
+3;"C2,C8,C11,C4,C5,C3,C6";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";7;"0.1uF";;;
+4;"J4,J1,J2,J5,J3";"USB_A_CONNFLY_DS1095-WNR0";5;"USB_A";;;
+5;"R2,R8,R9,R10,R3";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";5;"10";;;
+6;"C9,C7";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"10uF/10V";;;
+7;"R6";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"649 T1%";;;
+8;"R1,R4,R7,R11";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";4;"680";;;
+9;"C10,C12";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"20PF";;;
+10;"R5";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"47";;;
+11;"U1,U3";"SO8_DIO";2;"AP2182ASG-13";;;
+12;"U2";"TQFP48_51-85135_INF";1;"CY7C65642-48AXCT";;;
+13;"Y1";"Crystal_HC50_Vertical";1;"Crystal";;;
