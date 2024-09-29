@@ -1,8 +1,11 @@
 # 4-Port USB Hub PCB Project
-**This repository contains the design files for a 4-port USB hub created using KiCad. The project includes the schematic, PCB layout, and 3D renders of the final board. The USB hub design provides an efficient and compact solution to expand USB connectivity for any device.
+This repository contains the design files for a 4-port USB hub created using KiCad. The project includes the schematic, PCB layout, and 3D renders of the final board. The USB hub design provides an efficient and compact solution to expand USB connectivity for any device.
 
 Project Overview
 The 4-port USB hub is designed to expand a single USB connection into four individual ports, making it ideal for connecting multiple devices like flash drives, keyboards, and other peripherals to a computer.
+
+
+![3D Render of the PCB](./images/usb-hub-3d.png)
 
 Features
 4 USB Ports: Supports up to 4 devices with USB 2.0/3.0 compatibility.
@@ -10,6 +13,11 @@ Compact Design: Designed for easy integration into various projects.
 Powered Hub: Can be modified to support self-powered or bus-powered configurations.
 Protection Components: Includes protection diodes and resistors to ensure safe and reliable operation.
 3D Render of the PCB
+
+
+![Circuit Diagram- PCB](./images/usb-hub-3d.png)
+
+
 
 The above image shows a 3D render of the PCB designed in KiCad. It provides a visual representation of the layout, component placement, and overall board design.
 
