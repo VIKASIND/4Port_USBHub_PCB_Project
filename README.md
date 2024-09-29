@@ -15,7 +15,7 @@ Protection Components: Includes protection diodes and resistors to ensure safe a
 3D Render of the PCB
 
 
-![Circuit Diagram- PCB](./images/usb-hub-3d.png)
+![Circuit Diagram- PCB](.Screenshot 2024-09-29 084538.png)
 
 
 
